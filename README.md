@@ -6,6 +6,10 @@ This Flutter-based application provides real-time tracking of COVID-19 statistic
 country-specific level. The app is designed to keep users informed about the latest data during
 these challenging times.
 
+## Download Latest Release
+
+[Download the latest release](https://github.com/official-shashi/Covid-19-Tracker-App/blob/3541d8a3bfa75055571f29189baa51dabf0b1497/build/app/outputs/flutter-apk/COVID-19%20Tracker.apk)
+
 ## Features
 - Real-time global and country-specific COVID-19 statistics.
 - Intuitive user interface built with Flutter.
