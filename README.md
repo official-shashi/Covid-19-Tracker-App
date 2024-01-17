@@ -13,19 +13,22 @@ these challenging times.
 
 ## COVID-19 Tracker Application Screenshot
 
-![SplashScreen](https://github.com/official-shashi/Covid-19-Tracker-App/blob/9e64c8369d2f063828dd6a01fcde8b18a3c55a29/screenshot/SplashScreen.jpg)
+[//]: # (![SplashScreen]&#40;https://github.com/official-shashi/Covid-19-Tracker-App/blob/5fff5eabb324250e526df3b5d04162813d2999db/screenshot/SplashScreen.jpg&#41;)
 
-![HomeScreen](screenshot/photo_6143361061324176173_y.jpg)
+[//]: # ()
+[//]: # (![HomeScreen]&#40;screenshot/photo_6143361061324176173_y.jpg&#41;)
 
-![SearchScreen](screenshot/photo_6143361061324176171_y.jpg)
+[//]: # ()
+[//]: # (![SearchScreen]&#40;screenshot/photo_6143361061324176171_y.jpg&#41;)
 
-![DetailsScreen](screenshot/photo_6143361061324176175_y.jpg)
+[//]: # ()
+[//]: # (![DetailsScreen]&#40;screenshot/photo_6143361061324176175_y.jpg&#41;)
 
 <p align="center">
-    <img src="https://github.com/official-shashi/Covid-19-Tracker-App/blob/9e64c8369d2f063828dd6a01fcde8b18a3c55a29/screenshot/SplashScreen.jpg" alt="Splash Screen" width="200"/>
-    <img src="https://github.com/official-shashi/Covid-19-Tracker-App/blob/9e64c8369d2f063828dd6a01fcde8b18a3c55a29/screenshot/HomeScreen.jpg" alt="Home Screen" width="200"/>
-    <img src="https://github.com/official-shashi/Covid-19-Tracker-App/blob/9e64c8369d2f063828dd6a01fcde8b18a3c55a29/screenshot/SearchScreen.jpg" alt="Search Screen" width="200"/>
-    <img src="https://github.com/official-shashi/Covid-19-Tracker-App/blob/9e64c8369d2f063828dd6a01fcde8b18a3c55a29/screenshot/DeatilsScreen.jpg" alt="Details Screen" width="200"/>
+    <img src="https://github.com/official-shashi/Covid-19-Tracker-App/blob/5fff5eabb324250e526df3b5d04162813d2999db/screenshot/SplashScreen.jpg" alt="Splash Screen" width="200"/>
+    <img src="https://github.com/official-shashi/Covid-19-Tracker-App/blob/5fff5eabb324250e526df3b5d04162813d2999db/screenshot/HomeScreen.jpg" alt="Home Screen" width="200"/>
+    <img src="https://github.com/official-shashi/Covid-19-Tracker-App/blob/5fff5eabb324250e526df3b5d04162813d2999db/screenshot/SearchScreen.jpg" alt="Search Screen" width="200"/>
+    <img src="https://github.com/official-shashi/Covid-19-Tracker-App/blob/5fff5eabb324250e526df3b5d04162813d2999db/screenshot/SplashScreen.jpg" alt="Details Screen" width="200"/>
 </p>
 
 ## App Details
