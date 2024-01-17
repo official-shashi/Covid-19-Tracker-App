@@ -27,6 +27,7 @@ these challenging times.
     <img src="https://github.com/official-shashi/Covid-19-Tracker-App/blob/9e64c8369d2f063828dd6a01fcde8b18a3c55a29/screenshot/SearchScreen.jpg" alt="Search Screen" width="200"/>
     <img src="https://github.com/official-shashi/Covid-19-Tracker-App/blob/9e64c8369d2f063828dd6a01fcde8b18a3c55a29/screenshot/DeatilsScreen.jpg" alt="Details Screen" width="200"/>
 </p>
+
 ## App Details
 ### User Interface (UI)
 - Ensure a clean and user-friendly design. Utilize Flutter's widgets for an intuitive interface.
