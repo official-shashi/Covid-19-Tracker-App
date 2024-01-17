@@ -12,7 +12,6 @@ these challenging times.
 - Seamless API integration for up-to-date information.
 
 ## COVID-19 Tracker Application Screenshot
-
 [//]: # (![SplashScreen]&#40;https://github.com/official-shashi/Covid-19-Tracker-App/blob/5fff5eabb324250e526df3b5d04162813d2999db/screenshot/SplashScreen.jpg&#41;)
 
 [//]: # ()
