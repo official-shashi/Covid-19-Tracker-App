@@ -27,7 +27,7 @@ these challenging times.
     <img src="https://github.com/official-shashi/Covid-19-Tracker-App/blob/5fff5eabb324250e526df3b5d04162813d2999db/screenshot/SplashScreen.jpg" alt="Splash Screen" width="200"/>
     <img src="https://github.com/official-shashi/Covid-19-Tracker-App/blob/5fff5eabb324250e526df3b5d04162813d2999db/screenshot/HomeScreen.jpg" alt="Home Screen" width="200"/>
     <img src="https://github.com/official-shashi/Covid-19-Tracker-App/blob/5fff5eabb324250e526df3b5d04162813d2999db/screenshot/SearchScreen.jpg" alt="Search Screen" width="200"/>
-    <img src="https://github.com/official-shashi/Covid-19-Tracker-App/blob/5fff5eabb324250e526df3b5d04162813d2999db/screenshot/SplashScreen.jpg" alt="Details Screen" width="200"/>
+    <img src="https://github.com/official-shashi/Covid-19-Tracker-App/blob/cf9c0f39d2db5fac4c94de454227e20984f08930/screenshot/DeatilsScreen.jpg" alt="Details Screen" width="200"/>
 </p>
 
 ## App Details
