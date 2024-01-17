@@ -17,7 +17,7 @@ these challenging times.
 ![SearchScreen](screenshot/photo_6143361061324176171_y.jpg)
 ![DetailsScreen](screenshot/photo_6143361061324176175_y.jpg)
 <p align="center">
-    <img src="./screenshot/photo_6143361061324176172_y.jpg" width="48%" />
+    <img src="screenshot/photo_6143361061324176172_y.jpg" width="48%" />
   &ensp;
     <img src="./screenshots/mockups/Tasker_Dark.jpg" width="48%" />
   &ensp;
