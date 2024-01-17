@@ -12,10 +12,7 @@ these challenging times.
 - Seamless API integration for up-to-date information.
 
 ## COVID-19 Tracker Application Screenshot
-![SplashScreen](screenshot/photo_6143361061324176172_y.jpg)
-![HomeScreen](screenshot/photo_6143361061324176173_y.jpg)
-![SearchScreen](screenshot/photo_6143361061324176171_y.jpg)
-![DetailsScreen](screenshot/photo_6143361061324176175_y.jpg)
+![SplashScreen](screenshot/photo_6143361061324176172_y.jpg)![HomeScreen](screenshot/photo_6143361061324176173_y.jpg)![SearchScreen](screenshot/photo_6143361061324176171_y.jpg)![DetailsScreen](screenshot/photo_6143361061324176175_y.jpg)
 
 ## App Details
 ### User Interface (UI)
