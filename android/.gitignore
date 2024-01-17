@@ -1,6 +1,6 @@
 gradle-wrapper.jar
 .dart_tool/
-.idea/
+/.idea/
 .packages
 build/
 /.gradle
