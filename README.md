@@ -13,13 +13,13 @@ these challenging times.
 
 ## COVID-19 Tracker Application Screenshot
 
-[//]: # (![SplashScreen]&#40;screenshot/photo_6143361061324176172_y.jpg&#41;)
+![SplashScreen](https://github.com/official-shashi/Covid-19-Tracker-App/blob/9e64c8369d2f063828dd6a01fcde8b18a3c55a29/screenshot/SplashScreen.jpg)
 
-[//]: # (![HomeScreen]&#40;screenshot/photo_6143361061324176173_y.jpg&#41;)
+![HomeScreen](screenshot/photo_6143361061324176173_y.jpg)
 
-[//]: # (![SearchScreen]&#40;screenshot/photo_6143361061324176171_y.jpg&#41;)
+![SearchScreen](screenshot/photo_6143361061324176171_y.jpg)
 
-[//]: # (![DetailsScreen]&#40;screenshot/photo_6143361061324176175_y.jpg&#41;)
+![DetailsScreen](screenshot/photo_6143361061324176175_y.jpg)
 
 <p align="center">
     <img src="https://github.com/official-shashi/Covid-19-Tracker-App/blob/9e64c8369d2f063828dd6a01fcde8b18a3c55a29/screenshot/SplashScreen.jpg" alt="Splash Screen" width="200"/>
