@@ -19,11 +19,11 @@ these challenging times.
 <p align="center">
     <img src="screenshot/photo_6143361061324176172_y.jpg" width="48%" />
   &ensp;
-    <img src="screenshot/photo_6143361061324176173_y.jpg width="48%" />
+    <img src="screenshot/photo_6143361061324176173_y.jpg" width="48%" />
   &ensp;
-    <img src="screenshot/photo_6143361061324176171_y.jpg width="48%" />
+    <img src="screenshot/photo_6143361061324176171_y.jpg" width="48%" />
   &ensp;
-    <img src="screenshot/photo_6143361061324176175_y.jpg width="48%" />
+    <img src="screenshot/photo_6143361061324176175_y.jpg" width="48%" />
   &ensp;
 </p>
 
