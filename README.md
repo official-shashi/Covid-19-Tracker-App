@@ -8,7 +8,7 @@ these challenging times.
 
 ## Download Latest Release
 
-[Download the latest release](https://github.com/official-shashi/Covid-19-Tracker-App/blob/3541d8a3bfa75055571f29189baa51dabf0b1497/build/app/outputs/flutter-apk/COVID-19%20Tracker.apk)
+[COVID-19 Tracker](https://github.com/official-shashi/Covid-19-Tracker-App/blob/3541d8a3bfa75055571f29189baa51dabf0b1497/build/app/outputs/flutter-apk/COVID-19%20Tracker.apk)
 
 ## Features
 - Real-time global and country-specific COVID-19 statistics.
