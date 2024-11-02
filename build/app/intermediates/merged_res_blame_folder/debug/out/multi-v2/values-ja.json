@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.covid_tracker.app-mergeDebugResources-9:/values-ja/values-ja.xml",
+            "outputFile": "com.example.covid_tracker.app-mergeDebugResources-25:/values-ja/values-ja.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-3\\a42ff8c180d3e4bf8c087ea132703b04\\transformed\\core-1.6.0\\res\\values-ja\\values-ja.xml",
+                    "source": "/Users/shashigupta/.gradle/caches/transforms-3/db1434ad43a953687c63951f5eb6f7b5/transformed/core-1.13.1/res/values-ja/values-ja.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,147,247,341,437,530,623,724",
+                        "endColumns": "91,99,93,95,92,92,100,100",
+                        "endOffsets": "142,242,336,432,525,618,719,820"
                     }
                 }
             ]

@@ -1,4 +1,0 @@
-#Wed Jan 17 13:08:26 IST 2024
-base.0=D\:\\Code\\Flutter Code\\Flutter-Covid-19-Tracker-App-Tutorials\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
